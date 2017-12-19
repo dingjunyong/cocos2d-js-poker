@@ -1,0 +1,670 @@
+{
+  "ID": "26d9862d-d04f-4d3b-a912-b433f0d32cb7",
+  "Version": "2.3.2.3",
+  "Name": "ui_shop_jinbi_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 67,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 645.984
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.8972
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "TopMargin": 2.016,
+            "BottomMargin": 645.984,
+            "Tag": 68,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/suChongKuang.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "Scale9Width": 189,
+                "Scale9Height": 46,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 172.8855,
+                  "Y": 38.0071
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.201,
+                  "Y": 0.5279
+                },
+                "PreSize": {
+                  "X": 0.2198,
+                  "Y": 0.6389
+                },
+                "LeftMargin": 78.3855,
+                "RightMargin": 592.6145,
+                "TopMargin": 10.9929,
+                "BottomMargin": 15.0071,
+                "Tag": 69,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "store/JiaHao0.png",
+                      "Plist": "Shop/store.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "store/JiaHao.png",
+                      "Plist": "Shop/store.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 25,
+                    "Scale9Height": 31,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 189.0,
+                      "Y": 23.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.291,
+                      "Y": 1.1522
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 161.5,
+                    "RightMargin": -27.5,
+                    "TopMargin": -3.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 70,
+                    "ActionTag": 1264972021,
+                    "Size": {
+                      "X": 55.0,
+                      "Y": 53.0
+                    },
+                    "Name": "jinbi_jia",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "store/dingCenJinBi.png",
+                      "Plist": "Shop/store.plist"
+                    },
+                    "Scale9Width": 54,
+                    "Scale9Height": 60,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 23.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2857,
+                      "Y": 1.3043
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": -27.0,
+                    "RightMargin": 162.0,
+                    "TopMargin": -7.0,
+                    "BottomMargin": -7.0,
+                    "Tag": 71,
+                    "ActionTag": -397555164,
+                    "Size": {
+                      "X": 54.0,
+                      "Y": 60.0
+                    },
+                    "Name": "jbn_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "10000",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 94.5,
+                      "Y": 23.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 44.5,
+                    "RightMargin": 44.5,
+                    "TopMargin": 13.0,
+                    "BottomMargin": 13.0,
+                    "Tag": 72,
+                    "ActionTag": -586801927,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 28.0
+                    },
+                    "Name": "jinbi_number",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1513809883,
+                "Size": {
+                  "X": 189.0,
+                  "Y": 46.0
+                },
+                "Name": "jinbi_number_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/suChongKuang.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "Scale9Width": 189,
+                "Scale9Height": 46,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 452.6222,
+                  "Y": 39.0427
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5263,
+                  "Y": 0.5423
+                },
+                "PreSize": {
+                  "X": 0.2198,
+                  "Y": 0.6389
+                },
+                "LeftMargin": 358.1222,
+                "RightMargin": 312.8778,
+                "TopMargin": 9.9573,
+                "BottomMargin": 16.0427,
+                "Tag": 73,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "store/JiaHao0.png",
+                      "Plist": "Shop/store.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "store/JiaHao.png",
+                      "Plist": "Shop/store.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 25,
+                    "Scale9Height": 31,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 189.0,
+                      "Y": 23.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.291,
+                      "Y": 1.1522
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 161.5,
+                    "RightMargin": -27.5,
+                    "TopMargin": -3.5,
+                    "BottomMargin": -3.5,
+                    "Tag": 74,
+                    "ActionTag": -347376263,
+                    "Size": {
+                      "X": 55.0,
+                      "Y": 53.0
+                    },
+                    "Name": "zuanshi_jia",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "store/zuanShiDa.png",
+                      "Plist": "Shop/store.plist"
+                    },
+                    "Scale9Width": 65,
+                    "Scale9Height": 62,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 23.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3439,
+                      "Y": 1.3478
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": -32.5,
+                    "RightMargin": 156.5,
+                    "TopMargin": -8.0,
+                    "BottomMargin": -8.0,
+                    "Tag": 75,
+                    "ActionTag": -1966482178,
+                    "Size": {
+                      "X": 65.0,
+                      "Y": 62.0
+                    },
+                    "Name": "zsn_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "10000",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 94.5,
+                      "Y": 23.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 44.5,
+                    "RightMargin": 44.5,
+                    "TopMargin": 13.0,
+                    "BottomMargin": 13.0,
+                    "Tag": 76,
+                    "ActionTag": -793207868,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 28.0
+                    },
+                    "Name": "zuanshi_number",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1064136728,
+                "Size": {
+                  "X": 189.0,
+                  "Y": 46.0
+                },
+                "Name": "jinbi_number_bg_0",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1317407649,
+            "Size": {
+              "X": 860.0,
+              "Y": 72.0
+            },
+            "Name": "top",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 15.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0208
+            },
+            "PercentWidthEnable": true,
+            "PercentWidthEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.8056
+            },
+            "TopMargin": 125.0,
+            "BottomMargin": 15.0,
+            "Tag": 77,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/tieJia.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "Scale9Width": 890,
+                "Scale9Height": 65,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 430.0,
+                  "Y": 348.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6
+                },
+                "PreSize": {
+                  "X": 1.0349,
+                  "Y": 0.1121
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": -15.0,
+                "RightMargin": -15.0,
+                "TopMargin": 199.5,
+                "BottomMargin": 315.5,
+                "Tag": 78,
+                "ActionTag": -527691506,
+                "Size": {
+                  "X": 890.0,
+                  "Y": 65.0
+                },
+                "Name": "jb_tiejia_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/tieJia.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "Scale9Width": 890,
+                "Scale9Height": 65,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 430.0,
+                  "Y": 58.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1
+                },
+                "PreSize": {
+                  "X": 1.0349,
+                  "Y": 0.1121
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": -15.0,
+                "RightMargin": -15.0,
+                "TopMargin": 489.5,
+                "BottomMargin": 25.5,
+                "Tag": 79,
+                "ActionTag": 1752293815,
+                "Size": {
+                  "X": 890.0,
+                  "Y": 65.0
+                },
+                "Name": "jb_tiejia_2",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 297317152,
+            "Size": {
+              "X": 860.0,
+              "Y": 580.0
+            },
+            "Name": "content",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 860.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Shop/store.plist",
+        "Shop/store.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

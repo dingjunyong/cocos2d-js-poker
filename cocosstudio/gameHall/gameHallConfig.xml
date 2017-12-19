@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!--
+		version    版本号文件
+		manifest   资源清单文件
+		res        资源根目录
+		src        代码根目录
+		url        资源服地址
+	-------------------------------->
+	<data version="res/gameHall/version.xml" manifest="res/gameHall/game.manifest" res="res/" src="src/app/" url="http://120.26.94.209:30000/"/>
+</root>

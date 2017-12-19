@@ -1,0 +1,487 @@
+{
+  "ID": "fef97acc-918e-49dd-9531-e68c6913fcb1",
+  "Version": "2.3.2.3",
+  "Name": "ui_shop_scene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 45,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Shop/beiJing.png",
+              "Plist": ""
+            },
+            "Scale9Width": 1280,
+            "Scale9Height": 720,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.408,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5011,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 1.446,
+            "RightMargin": -1.446,
+            "Tag": 47,
+            "ActionTag": -832382506,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "shop_bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 31.2809,
+              "Y": 55.8187
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0244,
+              "Y": 0.0775
+            },
+            "PreSize": {
+              "X": 0.2188,
+              "Y": 0.5833
+            },
+            "LeftMargin": 31.2809,
+            "RightMargin": 968.7191,
+            "TopMargin": 244.1813,
+            "BottomMargin": 55.8187,
+            "Tag": 51,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/jinBi1.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/jinBi0.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 165,
+                "Scale9Height": 49,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 140.0,
+                  "Y": 330.658
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7873
+                },
+                "PreSize": {
+                  "X": 0.6964,
+                  "Y": 0.169
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 42.5,
+                "RightMargin": 42.5,
+                "TopMargin": 53.842,
+                "BottomMargin": 295.158,
+                "Tag": 54,
+                "ActionTag": -132161640,
+                "Size": {
+                  "X": 195.0,
+                  "Y": 71.0
+                },
+                "Name": "jinbi",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/duiJiang1.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/duiJiang0.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 165,
+                "Scale9Height": 49,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 140.0,
+                  "Y": 96.054
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.2287
+                },
+                "PreSize": {
+                  "X": 0.6964,
+                  "Y": 0.169
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 42.5,
+                "RightMargin": 42.5,
+                "TopMargin": 288.4307,
+                "BottomMargin": 60.5693,
+                "Tag": 55,
+                "ActionTag": -1180396469,
+                "Size": {
+                  "X": 195.0,
+                  "Y": 71.0
+                },
+                "Name": "daoju",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/daoJu1.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/daoJu0.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 165,
+                "Scale9Height": 49,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 140.0,
+                  "Y": 210.5567
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5013
+                },
+                "PreSize": {
+                  "X": 0.6964,
+                  "Y": 0.169
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 42.5,
+                "RightMargin": 42.5,
+                "TopMargin": 173.9433,
+                "BottomMargin": 175.0567,
+                "Tag": 56,
+                "ActionTag": -330665901,
+                "Size": {
+                  "X": 195.0,
+                  "Y": 71.0
+                },
+                "Name": "duijiang",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 672824484,
+            "Size": {
+              "X": 280.0,
+              "Y": 420.0
+            },
+            "Name": "left",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 396.8669,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3101,
+              "Y": 0.0
+            },
+            "PercentHeightEnable": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.6719,
+              "Y": 1.0
+            },
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 396.8669,
+            "RightMargin": 23.1331,
+            "Tag": 57,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/shanChu0.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/shanChu.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 25,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 839.1746,
+                  "Y": 681.1
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9758,
+                  "Y": 0.946
+                },
+                "PreSize": {
+                  "X": 0.0535,
+                  "Y": 0.0653
+                },
+                "LeftMargin": 816.1746,
+                "RightMargin": -2.1746,
+                "TopMargin": 15.4,
+                "BottomMargin": 657.6,
+                "Tag": 63,
+                "ActionTag": -951417671,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 47.0
+                },
+                "Name": "tuichu",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 368372662,
+            "Size": {
+              "X": 860.0,
+              "Y": 720.0
+            },
+            "Name": "right",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Shop/beiJing.png",
+        "Shop/store.plist",
+        "Shop/store.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

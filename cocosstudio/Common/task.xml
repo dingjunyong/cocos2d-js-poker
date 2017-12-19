@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
+<plist version="1.0">  
+<dict>  
+    <key>1</key>
+	<array>
+		<string>百胜将军</string><!--任务名称-->
+		<string>胜利达到%d场</string> <!--任务描述-->
+		<string>6</string><!--任务类型-->
+		<string>100</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>3000</string><!--奖励数量-->
+		<string>2</string><!--任务标签-->
+	</array>
+    
+    <key>2</key>
+	<array>
+		<string>千王之王</string>
+		<string>胜利达到%d场</string>
+		<string>6</string>
+		<string>1000</string>
+		<string>2</string>
+		<string>30000</string>
+		<string>2</string>
+	</array>
+    
+    <key>3</key>
+	<array>
+		<string>万人斩</string>
+		<string>胜利达到%d场</string>
+		<string>6</string>
+		<string>10000</string>
+		<string>2</string>
+		<string>300000</string>
+		<string>2</string>
+	</array>
+    
+    <key>4</key>
+	<array>
+		<string>专注老虎机50年</string>
+		<string>老虎机获得王牌%d次</string>
+		<string>22</string>
+		<string>1</string>
+		<string>2</string>
+		<string>100000</string>
+		<string>3</string>
+	</array>
+    
+    
+    <key>5</key>
+	<array>
+		<string>豹子还会远吗</string><!--任务名称-->
+		<string>老虎机获得豹子%d次</string> <!--任务描述-->
+		<string>23</string><!--任务类型-->
+		<string>1</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>60000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+    <key>6</key>
+	<array>
+		<string>顺金也来了</string><!--任务名称-->
+		<string>老虎机获得顺金%d次</string> <!--任务描述-->
+		<string>24</string><!--任务类型-->
+		<string>1</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>40000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+    <key>7</key>
+	<array>
+		<string>地龙来了</string><!--任务名称-->
+		<string>老虎机获得地龙%d次</string> <!--任务描述-->
+		<string>25</string><!--任务类型-->
+		<string>1</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>20000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    <key>8</key>
+	<array>
+		<string>摆脱屌丝</string><!--任务名称-->
+		<string>充值的人民币总额到达%d</string> <!--任务描述-->
+		<string>13</string><!--任务类型-->
+		<string>50</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>5000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    <key>9</key>
+	<array>
+		<string>高富帅</string><!--任务名称-->
+		<string>充值的人民币总额到达%d</string> <!--任务描述-->
+		<string>13</string><!--任务类型-->
+		<string>500</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>50000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+    <key>10</key>
+	<array>
+		<string>绝对土豪</string><!--任务名称-->
+		<string>充值的人民币总额到达%d</string> <!--任务描述-->
+		<string>13</string><!--任务类型-->
+		<string>5000</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>500000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+
+    <key>11</key>
+	<array>
+		<string>迪拜首富</string><!--任务名称-->
+		<string>充值的人民币总额到达%d</string> <!--任务描述-->
+		<string>13</string><!--任务类型-->
+		<string>20000</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>2000000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+    <key>12</key>
+	<array>
+		<string>冲榜高手</string><!--任务名称-->
+		<string>昨日赢最多榜排第1名到达%d次</string> <!--任务描述-->
+		<string>14</string><!--任务类型-->
+		<string>10</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>10000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+    
+    <key>13</key>
+	<array>
+		<string>冲榜之神</string><!--任务名称-->
+		<string>昨日赢最多榜排第1名到达%d次</string> <!--任务描述-->
+		<string>14</string><!--任务类型-->
+		<string>100</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>100000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+    
+    
+    <key>14</key>
+	<array>
+		<string>充个痛快</string><!--任务名称-->
+		<string>昨日充值榜排第1名到达%d次</string> <!--任务描述-->
+		<string>15</string><!--任务类型-->
+		<string>10</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>10000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+    
+    <key>15</key>
+	<array>
+		<string>这个FEEL倍儿爽</string><!--任务名称-->
+		<string>昨日充值榜排第1名到达%d次</string> <!--任务描述-->
+		<string>15</string><!--任务类型-->
+		<string>100</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>100000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+    <key>16</key>
+	<array>
+		<string>刚刚入门</string><!--任务名称-->
+		<string>等级达到%d级</string> <!--任务描述-->
+		<string>17</string><!--任务类型-->
+		<string>10</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>8000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+    
+    <key>17</key>
+	<array>
+		<string>狂飙等级</string><!--任务名称-->
+		<string>等级达到%d级</string> <!--任务描述-->
+		<string>17</string><!--任务类型-->
+		<string>30</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>14000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+    <key>18</key>
+	<array>
+		<string>等级狂魔</string><!--任务名称-->
+		<string>等级达到%d级</string> <!--任务描述-->
+		<string>17</string><!--任务类型-->
+		<string>60</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>250000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+    <key>19</key>
+	<array>
+		<string>金山游侠</string><!--任务名称-->
+		<string>等级达到%d级</string> <!--任务描述-->
+		<string>17</string><!--任务类型-->
+		<string>99</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>2500000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+    
+    <key>20</key>
+	<array>
+		<string>喇叭狂人</string><!--任务名称-->
+		<string>发送大喇叭达到%d次</string> <!--任务描述-->
+		<string>20</string><!--任务类型-->
+		<string>10</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>10000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+    <key>21</key>
+	<array>
+		<string>喇叭狂魔</string><!--任务名称-->
+		<string>发送大喇叭达到%d次</string> <!--任务描述-->
+		<string>20</string><!--任务类型-->
+		<string>50</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>50000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+
+    <key>22</key>
+	<array>
+		<string>喇叭之神</string><!--任务名称-->
+		<string>发送大喇叭达到%d次</string> <!--任务描述-->
+		<string>20</string><!--任务类型-->
+		<string>200</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>200000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    <key>23</key>
+	<array>
+		<string>小试牛刀初级场</string><!--任务名称-->
+		<string>初级场达到%d场</string> <!--任务描述-->
+		<string>1</string><!--任务类型-->
+		<string>100</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>3000</string><!--奖励数量-->
+		<string>2</string><!--任务标签-->
+	</array>
+    
+    
+    <key>24</key>
+	<array>
+		<string>大展身手初级场</string><!--任务名称-->
+		<string>初级场达到%d场</string> <!--任务描述-->
+		<string>1</string><!--任务类型-->
+		<string>500</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>15000</string><!--奖励数量-->
+		<string>2</string><!--任务标签-->
+	</array>
+    
+    
+    <key>25</key>
+	<array>
+		<string>横扫初级场</string><!--任务名称-->
+		<string>初级场达到%d场</string> <!--任务描述-->
+		<string>1</string><!--任务类型-->
+		<string>1000</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>30000</string><!--奖励数量-->
+		<string>2</string><!--任务标签-->
+	</array>
+    
+    <key>26</key>
+	<array>
+		<string>小试牛刀中级场</string><!--任务名称-->
+		<string>中级场达到%d场</string> <!--任务描述-->
+		<string>2</string><!--任务类型-->
+		<string>100</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>5000</string><!--奖励数量-->
+		<string>2</string><!--任务标签-->
+	</array>
+    
+    <key>27</key>
+	<array>
+		<string>大展身手中级场</string><!--任务名称-->
+		<string>中级场达到%d场</string> <!--任务描述-->
+		<string>2</string><!--任务类型-->
+		<string>500</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>25000</string><!--奖励数量-->
+		<string>2</string><!--任务标签-->
+	</array>
+    
+    
+    <key>28</key>
+	<array>
+		<string>横扫中级场</string><!--任务名称-->
+		<string>中级场达到%d场</string> <!--任务描述-->
+		<string>2</string><!--任务类型-->
+		<string>1000</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>50000</string><!--奖励数量-->
+		<string>2</string><!--任务标签-->
+	</array>
+    
+    <key>29</key>
+	<array>
+		<string>小试牛刀高级场</string><!--任务名称-->
+		<string>高级场达到%d场</string> <!--任务描述-->
+		<string>3</string><!--任务类型-->
+		<string>100</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>10000</string><!--奖励数量-->
+		<string>2</string><!--任务标签-->
+	</array>
+    
+    <key>30</key>
+	<array>
+		<string>大展身手高级场</string><!--任务名称-->
+		<string>高级场达到%d场</string> <!--任务描述-->
+		<string>3</string><!--任务类型-->
+		<string>500</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>50000</string><!--奖励数量-->
+		<string>2</string><!--任务标签-->
+	</array>
+    
+    <key>31</key>
+	<array>
+		<string>横扫高级场</string><!--任务名称-->
+		<string>高级场达到%d场</string> <!--任务描述-->
+		<string>3</string><!--任务类型-->
+		<string>1000</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>100000</string><!--奖励数量-->
+		<string>2</string><!--任务标签-->
+	</array>
+    
+    
+    
+    
+    <key>35</key>
+	<array>
+		<string>豹子王</string><!--任务名称-->
+		<string>玩牌时获得豹子%d次</string> <!--任务描述-->
+		<string>11</string><!--任务类型-->
+		<string>1</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>220000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+    <key>36</key>
+	<array>
+		<string>比同花顺还屌</string><!--任务名称-->
+		<string>玩牌时获得顺金%d次</string> <!--任务描述-->
+		<string>12</string><!--任务类型-->
+		<string>1</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>160000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+    
+    <key>37</key>
+	<array>
+		<string>上传头像</string><!--任务名称-->
+		<string>在个人面板中上传自己的靓照%d次</string> <!--任务描述-->
+		<string>27</string><!--任务类型-->
+		<string>1</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>1000</string><!--奖励数量-->
+		<string>3</string><!--任务标签-->
+	</array>
+    
+    
+  
+
+	     
+    <key>54</key>
+	<array>
+		<string>首胜</string><!--任务名称-->
+		<string>任意场赢取%d局</string> <!--任务描述-->
+		<string>30</string><!--任务类型-->
+		<string>1</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>500</string><!--奖励数量-->
+		<string>1</string><!--任务标签-->
+	</array>
+    
+    <key>55</key>
+	<array>
+		<string>小试身手</string><!--任务名称-->
+		<string>任意场对战%d局</string> <!--任务描述-->
+		<string>29</string><!--任务类型-->
+		<string>5</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>500</string><!--奖励数量-->
+		<string>1</string><!--任务标签-->
+	</array>
+    
+    <key>56</key>
+	<array>
+		<string>大展身手</string><!--任务名称-->
+		<string>任意场对战%d局</string> <!--任务描述-->
+		<string>29</string><!--任务类型-->
+		<string>10</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>1000</string><!--奖励数量-->
+		<string>1</string><!--任务标签-->
+	</array>
+    
+    
+    <key>57</key>
+	<array>
+		<string>横扫</string><!--任务名称-->
+		<string>任意场对战%d局</string> <!--任务描述-->
+		<string>29</string><!--任务类型-->
+		<string>20</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>2000</string><!--奖励数量-->
+		<string>1</string><!--任务标签-->
+	</array>
+    
+    
+    <key>58</key>
+	<array>
+		<string>无人能挡</string><!--任务名称-->
+		<string>任意场赢取%d局</string> <!--任务描述-->
+		<string>30</string><!--任务类型-->
+		<string>5</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>1000</string><!--奖励数量-->
+		<string>1</string><!--任务标签-->
+	</array>
+    
+    <key>59</key>
+	<array>
+		<string>主宰比赛</string><!--任务名称-->
+		<string>任意场赢取%d局</string> <!--任务描述-->
+		<string>30</string><!--任务类型-->
+		<string>10</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>2000</string><!--奖励数量-->
+		<string>1</string><!--任务标签-->
+	</array>
+
+
+
+	<key>100</key>
+	<array>
+		<string>NULL</string><!--任务名称-->
+		<string>人在江湖飘，哪能不带钞。来，大侠！这点银票拿去花吧！</string> <!--任务描述-->
+		<string>32</string><!--任务类型-->
+		<string>0</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>1000</string><!--奖励数量-->
+		<string>4</string><!--任务标签-->
+	</array>
+    
+    <key>101</key>
+	<array>
+		<string>NULL</string><!--任务名称-->
+		<string>来个红包，瞬间变土豪！！！</string> <!--任务描述-->
+		<string>32</string><!--任务类型-->
+		<string>0</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>1500</string><!--奖励数量-->
+		<string>4</string><!--任务标签-->
+	</array>
+    
+    <key>102</key>
+	<array>
+		<string>NULL</string><!--任务名称-->
+		<string>大侠，江湖险恶，老夫没什么东西了，这点银子你带上吧！</string> <!--任务描述-->
+		<string>32</string><!--任务类型-->
+		<string>0</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>1500</string><!--奖励数量-->
+		<string>4</string><!--任务标签-->
+	</array> 
+    
+    <key>103</key>
+	<array>
+		<string>NULL</string><!--任务名称-->		
+		<string>屌丝逆袭，钞票不能少。</string> <!--任务描述-->
+		<string>32</string><!--任务类型-->
+		<string>0</string><!--任务数量-->
+		<string>2</string><!--奖励类型-->
+		<string>2000</string><!--奖励数量-->
+		<string>4</string><!--任务标签-->
+	</array>
+
+</dict>  
+</plist>  
+
+

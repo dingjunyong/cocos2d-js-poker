@@ -1,0 +1,3093 @@
+{
+  "ID": "facb8f1a-3ce9-48a1-9a8b-7c7507681526",
+  "Version": "2.3.2.3",
+  "Name": "ui_room_scene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 95,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Room/roomBg.jpg",
+              "Plist": ""
+            },
+            "Scale9Width": 1280,
+            "Scale9Height": 720,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.536,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5012,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 1.5769,
+            "RightMargin": -1.5769,
+            "Tag": 96,
+            "ActionTag": 1569680400,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "room_bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Room/newRoom/pz_182.png",
+              "Plist": ""
+            },
+            "Scale9Width": 111,
+            "Scale9Height": 145,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 253.9016,
+              "Y": 432.1888
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1984,
+              "Y": 0.6003
+            },
+            "PreSize": {
+              "X": 0.0867,
+              "Y": 0.2014
+            },
+            "LeftMargin": 198.4016,
+            "RightMargin": 970.5984,
+            "TopMargin": 215.3112,
+            "BottomMargin": 359.6888,
+            "Tag": 102,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Common/mm.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 120,
+                "Scale9Height": 120,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 54.9651,
+                  "Y": 72.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4952,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentWidthEnabled": true,
+                "PreSize": {
+                  "X": 0.86,
+                  "Y": 0.6207
+                },
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 7.2352,
+                "RightMargin": 8.3049,
+                "TopMargin": 27.5,
+                "BottomMargin": 27.5,
+                "Tag": 107,
+                "ActionTag": 922539230,
+                "Size": {
+                  "X": 95.46,
+                  "Y": 90.0
+                },
+                "Name": "touxiang",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Room/newRoom/pz_114.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 21,
+                "Scale9Height": 21,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 15.0001,
+                  "Y": 13.0003
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1351,
+                  "Y": 0.0897
+                },
+                "PreSize": {
+                  "X": 0.1892,
+                  "Y": 0.1448
+                },
+                "LeftMargin": 4.5001,
+                "RightMargin": 85.4999,
+                "TopMargin": 121.4997,
+                "BottomMargin": 2.5003,
+                "Tag": 108,
+                "ActionTag": 1173082164,
+                "Size": {
+                  "X": 21.0,
+                  "Y": 21.0
+                },
+                "Name": "jinbi_icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "32.5万",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 61.05,
+                  "Y": 14.9996
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.55,
+                  "Y": 0.1034
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 31.05,
+                "RightMargin": 19.95,
+                "TopMargin": 120.0004,
+                "BottomMargin": 4.9996,
+                "Tag": 109,
+                "ActionTag": 539514940,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 20.0
+                },
+                "Name": "jinbi_number",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "东方不败",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 55.5,
+                  "Y": 127.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8759
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 15.5,
+                "RightMargin": 15.5,
+                "TopMargin": 8.0,
+                "BottomMargin": 117.0,
+                "Tag": 110,
+                "ActionTag": -100544894,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 20.0
+                },
+                "Name": "nickname",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1949946507,
+            "Size": {
+              "X": 111.0,
+              "Y": 145.0
+            },
+            "Name": "wanjia1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Room/newRoom/pz_104_2.png",
+              "Plist": ""
+            },
+            "Scale9Width": 222,
+            "Scale9Height": 113,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 656.0,
+              "Y": 144.4801
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5125,
+              "Y": 0.2007
+            },
+            "PreSize": {
+              "X": 0.1734,
+              "Y": 0.1569
+            },
+            "HorizontalEdge": "BothEdge",
+            "LeftMargin": 545.0,
+            "RightMargin": 513.0,
+            "TopMargin": 519.0199,
+            "BottomMargin": 87.9801,
+            "Tag": 103,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Common/gg.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 120,
+                "Scale9Height": 120,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 55.5,
+                  "Y": 56.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.25,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4072,
+                  "Y": 0.8
+                },
+                "LeftMargin": 10.3,
+                "RightMargin": 121.3,
+                "TopMargin": 11.3,
+                "BottomMargin": 11.3,
+                "Tag": 126,
+                "ActionTag": -122506722,
+                "Size": {
+                  "X": 90.4,
+                  "Y": 90.4
+                },
+                "Name": "touxiang",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 111.6276,
+                  "Y": 1.6276
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5028,
+                  "Y": 0.0144
+                },
+                "PercentHeightEnable": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.4505,
+                  "Y": 1.0
+                },
+                "LeftMargin": 111.6276,
+                "RightMargin": 10.3724,
+                "TopMargin": -1.6276,
+                "BottomMargin": 1.6276,
+                "Tag": 127,
+                "Children": [
+                  {
+                    "FontSize": 20,
+                    "LabelText": "独孤伯爵",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 43.6298,
+                      "Y": 91.622
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4363,
+                      "Y": 0.8108
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 3.6298,
+                    "RightMargin": 16.3702,
+                    "TopMargin": 11.378,
+                    "BottomMargin": 81.622,
+                    "Tag": 128,
+                    "ActionTag": 997974627,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 20.0
+                    },
+                    "Name": "nickname",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Common/common-money.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 54,
+                    "Scale9Height": 60,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 20.0002,
+                      "Y": 55.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2,
+                      "Y": 0.4867
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2035
+                    },
+                    "LeftMargin": 10.0002,
+                    "RightMargin": 69.9998,
+                    "TopMargin": 46.5,
+                    "BottomMargin": 43.5,
+                    "Tag": 129,
+                    "ActionTag": -116707137,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 23.0
+                    },
+                    "Name": "jinbi_icon",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Common/common-rmb.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 65,
+                    "Scale9Height": 62,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 20.0005,
+                      "Y": 18.6902
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2,
+                      "Y": 0.1654
+                    },
+                    "PreSize": {
+                      "X": 0.23,
+                      "Y": 0.2035
+                    },
+                    "LeftMargin": 8.5005,
+                    "RightMargin": 68.4995,
+                    "TopMargin": 82.8098,
+                    "BottomMargin": 7.1902,
+                    "Tag": 130,
+                    "ActionTag": -1337972824,
+                    "Size": {
+                      "X": 23.0,
+                      "Y": 23.0
+                    },
+                    "Name": "zuanshi_icon",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "2500",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 60.0,
+                      "Y": 56.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6,
+                      "Y": 0.4956
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 40.0,
+                    "RightMargin": 20.0,
+                    "TopMargin": 47.0,
+                    "BottomMargin": 46.0,
+                    "Tag": 131,
+                    "ActionTag": -358634043,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 20.0
+                    },
+                    "Name": "jinbi_number",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "2500",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 60.0,
+                      "Y": 19.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6,
+                      "Y": 0.1681
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 40.0,
+                    "RightMargin": 20.0,
+                    "TopMargin": 84.0,
+                    "BottomMargin": 9.0,
+                    "Tag": 132,
+                    "ActionTag": 86442714,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 20.0
+                    },
+                    "Name": "zuanshi_number",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1239809173,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 113.0
+                },
+                "Name": "info",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -676020154,
+            "Size": {
+              "X": 222.0,
+              "Y": 113.0
+            },
+            "Name": "wanjia3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Room/newRoom/pz_182.png",
+              "Plist": ""
+            },
+            "Scale9Width": 111,
+            "Scale9Height": 145,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 250.0,
+              "Y": 182.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1953,
+              "Y": 0.2528
+            },
+            "PreSize": {
+              "X": 0.0867,
+              "Y": 0.2014
+            },
+            "LeftMargin": 194.5,
+            "RightMargin": 974.5,
+            "TopMargin": 465.5,
+            "BottomMargin": 109.5,
+            "Tag": 111,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Common/mm.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 120,
+                "Scale9Height": 120,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 54.9651,
+                  "Y": 72.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4952,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentWidthEnabled": true,
+                "PreSize": {
+                  "X": 0.86,
+                  "Y": 0.6207
+                },
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 7.2352,
+                "RightMargin": 8.3049,
+                "TopMargin": 27.5,
+                "BottomMargin": 27.5,
+                "Tag": 112,
+                "ActionTag": -1062618032,
+                "Size": {
+                  "X": 95.46,
+                  "Y": 90.0
+                },
+                "Name": "touxiang",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Room/newRoom/pz_114.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 21,
+                "Scale9Height": 21,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 15.0001,
+                  "Y": 13.0003
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1351,
+                  "Y": 0.0897
+                },
+                "PreSize": {
+                  "X": 0.1892,
+                  "Y": 0.1448
+                },
+                "LeftMargin": 4.5001,
+                "RightMargin": 85.4999,
+                "TopMargin": 121.4997,
+                "BottomMargin": 2.5003,
+                "Tag": 113,
+                "ActionTag": 176995499,
+                "Size": {
+                  "X": 21.0,
+                  "Y": 21.0
+                },
+                "Name": "jinbi_icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "32.5万",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 61.05,
+                  "Y": 14.9996
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.55,
+                  "Y": 0.1034
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 31.05,
+                "RightMargin": 19.95,
+                "TopMargin": 120.0004,
+                "BottomMargin": 4.9996,
+                "Tag": 114,
+                "ActionTag": -1832447532,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 20.0
+                },
+                "Name": "jinbi_number",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "曹操",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 55.5,
+                  "Y": 127.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8759
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 15.5,
+                "RightMargin": 15.5,
+                "TopMargin": 8.0,
+                "BottomMargin": 117.0,
+                "Tag": 115,
+                "ActionTag": 1281477471,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 20.0
+                },
+                "Name": "nickname",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1109842635,
+            "Size": {
+              "X": 111.0,
+              "Y": 145.0
+            },
+            "Name": "wanjia2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Room/newRoom/pz_182.png",
+              "Plist": ""
+            },
+            "Scale9Width": 111,
+            "Scale9Height": 145,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1108.0,
+              "Y": 437.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8656,
+              "Y": 0.6069
+            },
+            "PreSize": {
+              "X": 0.0867,
+              "Y": 0.2014
+            },
+            "LeftMargin": 1052.5,
+            "RightMargin": 116.5,
+            "TopMargin": 210.5,
+            "BottomMargin": 364.5,
+            "Tag": 116,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Common/mm.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 120,
+                "Scale9Height": 120,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 54.9651,
+                  "Y": 72.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4952,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentWidthEnabled": true,
+                "PreSize": {
+                  "X": 0.86,
+                  "Y": 0.6207
+                },
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 7.2352,
+                "RightMargin": 8.3049,
+                "TopMargin": 27.5,
+                "BottomMargin": 27.5,
+                "Tag": 117,
+                "ActionTag": -1870938619,
+                "Size": {
+                  "X": 95.46,
+                  "Y": 90.0
+                },
+                "Name": "touxiang",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Room/newRoom/pz_114.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 21,
+                "Scale9Height": 21,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 15.0001,
+                  "Y": 13.0003
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1351,
+                  "Y": 0.0897
+                },
+                "PreSize": {
+                  "X": 0.1892,
+                  "Y": 0.1448
+                },
+                "LeftMargin": 4.5001,
+                "RightMargin": 85.4999,
+                "TopMargin": 121.4997,
+                "BottomMargin": 2.5003,
+                "Tag": 118,
+                "ActionTag": -2074869763,
+                "Size": {
+                  "X": 21.0,
+                  "Y": 21.0
+                },
+                "Name": "jinbi_icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "32.5万",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 61.05,
+                  "Y": 14.9996
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.55,
+                  "Y": 0.1034
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 31.05,
+                "RightMargin": 19.95,
+                "TopMargin": 120.0004,
+                "BottomMargin": 4.9996,
+                "Tag": 119,
+                "ActionTag": 676284657,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 20.0
+                },
+                "Name": "jinbi_number",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "令狐冲",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 55.5,
+                  "Y": 127.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8759
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 15.5,
+                "RightMargin": 15.5,
+                "TopMargin": 8.0,
+                "BottomMargin": 117.0,
+                "Tag": 120,
+                "ActionTag": 1991709602,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 20.0
+                },
+                "Name": "nickname",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 166363980,
+            "Size": {
+              "X": 111.0,
+              "Y": 145.0
+            },
+            "Name": "wanjia5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Room/newRoom/pz_182.png",
+              "Plist": ""
+            },
+            "Scale9Width": 111,
+            "Scale9Height": 145,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1108.0,
+              "Y": 175.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8656,
+              "Y": 0.2431
+            },
+            "PreSize": {
+              "X": 0.0867,
+              "Y": 0.2014
+            },
+            "LeftMargin": 1052.5,
+            "RightMargin": 116.5,
+            "TopMargin": 472.5,
+            "BottomMargin": 102.5,
+            "Tag": 121,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Common/mm.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 120,
+                "Scale9Height": 120,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 54.9651,
+                  "Y": 72.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4952,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentWidthEnabled": true,
+                "PreSize": {
+                  "X": 0.86,
+                  "Y": 0.6207
+                },
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 7.2352,
+                "RightMargin": 8.3049,
+                "TopMargin": 27.5,
+                "BottomMargin": 27.5,
+                "Tag": 122,
+                "ActionTag": 1281751703,
+                "Size": {
+                  "X": 95.46,
+                  "Y": 90.0
+                },
+                "Name": "touxiang",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Room/newRoom/pz_114.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 21,
+                "Scale9Height": 21,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 15.0001,
+                  "Y": 13.0003
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1351,
+                  "Y": 0.0897
+                },
+                "PreSize": {
+                  "X": 0.1892,
+                  "Y": 0.1448
+                },
+                "LeftMargin": 4.5001,
+                "RightMargin": 85.4999,
+                "TopMargin": 121.4997,
+                "BottomMargin": 2.5003,
+                "Tag": 123,
+                "ActionTag": 2094214097,
+                "Size": {
+                  "X": 21.0,
+                  "Y": 21.0
+                },
+                "Name": "jinbi_icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "32.5万",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 61.05,
+                  "Y": 14.9996
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.55,
+                  "Y": 0.1034
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 31.05,
+                "RightMargin": 19.95,
+                "TopMargin": 120.0004,
+                "BottomMargin": 4.9996,
+                "Tag": 124,
+                "ActionTag": -1017813038,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 20.0
+                },
+                "Name": "jinbi_number",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "中原一点红",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 55.5,
+                  "Y": 127.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8759
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 15.5,
+                "RightMargin": 15.5,
+                "TopMargin": 8.0,
+                "BottomMargin": 117.0,
+                "Tag": 125,
+                "ActionTag": 1267163228,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 20.0
+                },
+                "Name": "nickname",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -774152946,
+            "Size": {
+              "X": 111.0,
+              "Y": 145.0
+            },
+            "Name": "wanjia4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 256.0,
+              "Y": 10.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2,
+              "Y": 0.0139
+            },
+            "PercentWidthEnable": true,
+            "PercentWidthEnabled": true,
+            "PreSize": {
+              "X": 0.8,
+              "Y": 0.1
+            },
+            "HorizontalEdge": "BothEdge",
+            "LeftMargin": 256.0,
+            "TopMargin": 638.0,
+            "BottomMargin": 10.0,
+            "Tag": 133,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "qp.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "xx.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "x.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 115,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 72.5,
+                  "Y": 36.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0708,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1416,
+                  "Y": 1.0
+                },
+                "RightMargin": 878.9999,
+                "Tag": 134,
+                "ActionTag": -1887324124,
+                "Size": {
+                  "X": 145.0,
+                  "Y": 72.0
+                },
+                "Name": "qipai_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "kp.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "yy.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "y.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 115,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 697.5974,
+                  "Y": 36.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6812,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1416,
+                  "Y": 1.0
+                },
+                "LeftMargin": 625.0974,
+                "RightMargin": 253.9025,
+                "Tag": 135,
+                "ActionTag": -1426741594,
+                "Size": {
+                  "X": 145.0,
+                  "Y": 72.0
+                },
+                "Name": "kanpai_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "jz.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "zz.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "z.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 115,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 541.618,
+                  "Y": 36.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5289,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1416,
+                  "Y": 1.0
+                },
+                "LeftMargin": 469.118,
+                "RightMargin": 409.882,
+                "Tag": 136,
+                "ActionTag": -1258767585,
+                "Size": {
+                  "X": 145.0,
+                  "Y": 72.0
+                },
+                "Name": "jiazhu_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "bgp.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "bpa.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "bp.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 115,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 383.4849,
+                  "Y": 36.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3745,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1416,
+                  "Y": 1.0
+                },
+                "LeftMargin": 310.9849,
+                "RightMargin": 568.015,
+                "Tag": 137,
+                "ActionTag": -893018898,
+                "Size": {
+                  "X": 145.0,
+                  "Y": 72.0
+                },
+                "Name": "bipai_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "qx.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ww.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "w.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 115,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 227.8634,
+                  "Y": 36.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2225,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1416,
+                  "Y": 1.0
+                },
+                "LeftMargin": 155.3634,
+                "RightMargin": 723.6365,
+                "Tag": 138,
+                "ActionTag": -424460255,
+                "Size": {
+                  "X": 145.0,
+                  "Y": 72.0
+                },
+                "Name": "quanya_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "gzap.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "gza.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "gz.png",
+                  "Plist": "Room/newRoom/newBtns.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 115,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 852.0999,
+                  "Y": 36.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8321,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1416,
+                  "Y": 1.0
+                },
+                "LeftMargin": 779.5999,
+                "RightMargin": 99.4001,
+                "Tag": 139,
+                "ActionTag": -2142895415,
+                "Size": {
+                  "X": 145.0,
+                  "Y": 72.0
+                },
+                "Name": "genzhu_btn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -266927649,
+            "Size": {
+              "X": 1024.0,
+              "Y": 72.0
+            },
+            "Name": "bottom_btn",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "Room/newRoom/BigWheelSceneCallBack02.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Room/newRoom/BigWheelSceneCallBack01.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 34,
+            "Scale9Height": 38,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 79.5363,
+              "Y": 657.533
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0621,
+              "Y": 0.9132
+            },
+            "PreSize": {
+              "X": 0.05,
+              "Y": 0.0833
+            },
+            "LeftMargin": 47.5363,
+            "RightMargin": 1168.4636,
+            "TopMargin": 32.467,
+            "BottomMargin": 627.533,
+            "Tag": 43,
+            "ActionTag": 2137816930,
+            "Size": {
+              "X": 64.0,
+              "Y": 60.0
+            },
+            "Name": "tuichu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 311.936,
+              "Y": 556.5912
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2437,
+              "Y": 0.773
+            },
+            "PreSize": {
+              "X": 0.5,
+              "Y": 0.1389
+            },
+            "HorizontalEdge": "BothEdge",
+            "LeftMargin": 311.936,
+            "RightMargin": 328.064,
+            "TopMargin": 63.4088,
+            "BottomMargin": 556.5912,
+            "Tag": 44,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Room/newRoom/pz_111.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 237,
+                "Scale9Height": 35,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 120.0,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1875,
+                  "Y": 0.8
+                },
+                "PreSize": {
+                  "X": 0.3703,
+                  "Y": 0.35
+                },
+                "LeftMargin": 1.5,
+                "RightMargin": 401.5,
+                "TopMargin": 2.5,
+                "BottomMargin": 62.5,
+                "Tag": 45,
+                "Children": [
+                  {
+                    "FontSize": 23,
+                    "LabelText": "底住:",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 61.3158,
+                      "Y": 18.771
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2587,
+                      "Y": 0.5363
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 31.3158,
+                    "RightMargin": 145.6842,
+                    "TopMargin": 6.229,
+                    "BottomMargin": 8.771,
+                    "Tag": 51,
+                    "ActionTag": 175244122,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 23,
+                    "LabelText": "50",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {},
+                    "ShadowOffsetX": 5.0,
+                    "ShadowOffsetY": 5.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 139.9061,
+                      "Y": 17.9658
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5903,
+                      "Y": 0.5133
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 127.9061,
+                    "RightMargin": 85.0939,
+                    "TopMargin": 5.5342,
+                    "BottomMargin": 6.4658,
+                    "Tag": 52,
+                    "ActionTag": 1467341020,
+                    "Size": {
+                      "X": 24.0,
+                      "Y": 23.0
+                    },
+                    "Name": "value",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -2019142409,
+                "Size": {
+                  "X": 237.0,
+                  "Y": 35.0
+                },
+                "Name": "dizhu",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Room/newRoom/pz_111.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 237,
+                "Scale9Height": 35,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 118.9574,
+                  "Y": 21.1064
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1859,
+                  "Y": 0.2111
+                },
+                "PreSize": {
+                  "X": 0.3703,
+                  "Y": 0.35
+                },
+                "LeftMargin": 0.4574,
+                "RightMargin": 402.5426,
+                "TopMargin": 61.3936,
+                "BottomMargin": 3.6064,
+                "Tag": 59,
+                "Children": [
+                  {
+                    "FontSize": 23,
+                    "LabelText": "当前:",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 61.3158,
+                      "Y": 18.771
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2587,
+                      "Y": 0.5363
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 31.3158,
+                    "RightMargin": 145.6842,
+                    "TopMargin": 6.229,
+                    "BottomMargin": 8.771,
+                    "Tag": 60,
+                    "ActionTag": -147143454,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 23,
+                    "LabelText": "50",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {},
+                    "ShadowOffsetX": 5.0,
+                    "ShadowOffsetY": 5.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 139.9061,
+                      "Y": 17.9658
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5903,
+                      "Y": 0.5133
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 127.9061,
+                    "RightMargin": 85.0939,
+                    "TopMargin": 5.5342,
+                    "BottomMargin": 6.4658,
+                    "Tag": 61,
+                    "ActionTag": 1849320683,
+                    "Size": {
+                      "X": 24.0,
+                      "Y": 23.0
+                    },
+                    "Name": "value",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1650530907,
+                "Size": {
+                  "X": 237.0,
+                  "Y": 35.0
+                },
+                "Name": "dangqian",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Room/newRoom/pz_111.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 237,
+                "Scale9Height": 35,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 518.6021,
+                  "Y": 73.6917
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8103,
+                  "Y": 0.7369
+                },
+                "PreSize": {
+                  "X": 0.3703,
+                  "Y": 0.35
+                },
+                "LeftMargin": 400.1021,
+                "RightMargin": 2.8979,
+                "TopMargin": 8.8083,
+                "BottomMargin": 56.1917,
+                "Tag": 62,
+                "Children": [
+                  {
+                    "FontSize": 23,
+                    "LabelText": "可比轮数:",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 84.1299,
+                      "Y": 17.7744
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.355,
+                      "Y": 0.5078
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 32.1299,
+                    "RightMargin": 100.8701,
+                    "TopMargin": 5.7256,
+                    "BottomMargin": 6.2744,
+                    "Tag": 63,
+                    "ActionTag": 411903887,
+                    "Size": {
+                      "X": 104.0,
+                      "Y": 23.0
+                    },
+                    "Name": "text",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 23,
+                    "LabelText": "1/3",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {},
+                    "ShadowOffsetX": 5.0,
+                    "ShadowOffsetY": 5.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 170.9063,
+                      "Y": 17.967
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7211,
+                      "Y": 0.5133
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 158.9063,
+                    "RightMargin": 54.0938,
+                    "TopMargin": 5.533,
+                    "BottomMargin": 6.467,
+                    "Tag": 64,
+                    "ActionTag": 1777973958,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 23.0
+                    },
+                    "Name": "value",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -706562378,
+                "Size": {
+                  "X": 237.0,
+                  "Y": 35.0
+                },
+                "Name": "kebilunshu",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Room/newRoom/pz_111.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 237,
+                "Scale9Height": 35,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 518.5337,
+                  "Y": 22.6881
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8102,
+                  "Y": 0.2269
+                },
+                "PreSize": {
+                  "X": 0.3703,
+                  "Y": 0.35
+                },
+                "LeftMargin": 400.0337,
+                "RightMargin": 2.9663,
+                "TopMargin": 59.8119,
+                "BottomMargin": 5.1881,
+                "Tag": 68,
+                "Children": [
+                  {
+                    "FontSize": 23,
+                    "LabelText": "最大轮数:",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 84.1299,
+                      "Y": 17.7744
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.355,
+                      "Y": 0.5078
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 32.1299,
+                    "RightMargin": 100.8701,
+                    "TopMargin": 5.7256,
+                    "BottomMargin": 6.2744,
+                    "Tag": 69,
+                    "ActionTag": -1642606388,
+                    "Size": {
+                      "X": 104.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 23,
+                    "LabelText": "1/20",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {},
+                    "ShadowOffsetX": 5.0,
+                    "ShadowOffsetY": 5.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 170.9063,
+                      "Y": 17.967
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7211,
+                      "Y": 0.5133
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 158.9063,
+                    "RightMargin": 54.0938,
+                    "TopMargin": 5.533,
+                    "BottomMargin": 6.467,
+                    "Tag": 70,
+                    "ActionTag": 625356209,
+                    "Size": {
+                      "X": 48.0,
+                      "Y": 23.0
+                    },
+                    "Name": "value",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 325851894,
+                "Size": {
+                  "X": 237.0,
+                  "Y": 35.0
+                },
+                "Name": "zudalunshu",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 568600557,
+            "Size": {
+              "X": 640.0,
+              "Y": 100.0
+            },
+            "Name": "jishuban_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 958.5585,
+              "Y": 621.8195
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7489,
+              "Y": 0.8636
+            },
+            "PreSize": {
+              "X": 0.2578,
+              "Y": 0.1389
+            },
+            "LeftMargin": 958.5585,
+            "RightMargin": -8.5585,
+            "TopMargin": -1.8195,
+            "BottomMargin": 621.8195,
+            "Tag": 71,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Room/newRoom/pz_65.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Room/newRoom/pz_65.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 70,
+                "Scale9Height": 78,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 50.0,
+                  "Y": 50.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.25,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.303,
+                  "Y": 1.0
+                },
+                "RightMargin": 230.0,
+                "Tag": 72,
+                "ActionTag": 873394494,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 100.0
+                },
+                "Name": "Button_2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Room/newRoom/pz_63.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Room/newRoom/pz_63.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 70,
+                "Scale9Height": 78,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 157.8353,
+                  "Y": 50.4711
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4783,
+                  "Y": 0.5047
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 1.0
+                },
+                "LeftMargin": 107.8353,
+                "RightMargin": 122.1647,
+                "TopMargin": -0.4711,
+                "BottomMargin": 0.4711,
+                "Tag": 76,
+                "ActionTag": 998739546,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 100.0
+                },
+                "Name": "Button_2_0",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Room/newRoom/pz_67.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Room/newRoom/pz_67.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 70,
+                "Scale9Height": 78,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 266.5497,
+                  "Y": 48.8937
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8077,
+                  "Y": 0.4889
+                },
+                "PreSize": {
+                  "X": 0.303,
+                  "Y": 1.0
+                },
+                "LeftMargin": 216.5497,
+                "RightMargin": 13.4503,
+                "TopMargin": 1.1063,
+                "BottomMargin": -1.1063,
+                "Tag": 77,
+                "ActionTag": 16589354,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 100.0
+                },
+                "Name": "Button_2_1",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -79915011,
+            "Size": {
+              "X": 330.0,
+              "Y": 100.0
+            },
+            "Name": "top_btn_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Common/laba-bg03.png",
+              "Plist": ""
+            },
+            "Scale9Width": 632,
+            "Scale9Height": 50,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 633.4572,
+              "Y": 695.6818
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.8738
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4949,
+              "Y": 0.9662
+            },
+            "PreSize": {
+              "X": 0.4938,
+              "Y": 0.0694
+            },
+            "LeftMargin": 317.4572,
+            "RightMargin": 330.5428,
+            "TopMargin": -0.6818,
+            "BottomMargin": 670.6818,
+            "Tag": 81,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Common/laba01.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 39,
+                "Scale9Height": 40,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 28.0002,
+                  "Y": 26.9995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0443,
+                  "Y": 0.54
+                },
+                "PreSize": {
+                  "X": 0.0617,
+                  "Y": 0.8
+                },
+                "LeftMargin": 8.5002,
+                "RightMargin": 584.4999,
+                "TopMargin": 3.0005,
+                "BottomMargin": 6.9995,
+                "Tag": 83,
+                "ActionTag": 2080948800,
+                "Size": {
+                  "X": 39.0,
+                  "Y": 40.0
+                },
+                "Name": "laba_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Common/laba_edit.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Common/laba_edit.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 7,
+                "Scale9OriginY": 7,
+                "Scale9Width": 10,
+                "Scale9Height": 9,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 613.0,
+                  "Y": 26.0018
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9699,
+                  "Y": 0.52
+                },
+                "PreSize": {
+                  "X": 0.038,
+                  "Y": 0.46
+                },
+                "LeftMargin": 601.0,
+                "RightMargin": 7.0,
+                "TopMargin": 12.4982,
+                "BottomMargin": 14.5018,
+                "Tag": 84,
+                "ActionTag": 773510022,
+                "Size": {
+                  "X": 24.0,
+                  "Y": 23.0
+                },
+                "Name": "laba_edit",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1049250651,
+            "Size": {
+              "X": 632.0,
+              "Y": 50.0
+            },
+            "Name": "laba_bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "pz_119.png",
+              "Plist": "Room/newRoom/backGame.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "pz_119.png",
+              "Plist": "Room/newRoom/backGame.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 173,
+            "Scale9Height": 49,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.1586,
+              "Y": 0.0986
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 538.5,
+            "RightMargin": 538.5,
+            "TopMargin": 324.5,
+            "BottomMargin": 324.5,
+            "Tag": 103,
+            "ActionTag": -1452714565,
+            "Size": {
+              "X": 203.0,
+              "Y": 71.0
+            },
+            "Name": "start_game",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Common/common-money.png",
+        "Common/common-rmb.png",
+        "Common/gg.png",
+        "Common/laba_edit.png",
+        "Common/laba01.png",
+        "Common/laba-bg03.png",
+        "Common/mm.png",
+        "Default/Button_Disable.png",
+        "Room/newRoom/backGame.plist",
+        "Room/newRoom/backGame.png",
+        "Room/newRoom/BigWheelSceneCallBack01.png",
+        "Room/newRoom/BigWheelSceneCallBack02.png",
+        "Room/newRoom/newBtns.plist",
+        "Room/newRoom/newBtns.png",
+        "Room/newRoom/pz_104_2.png",
+        "Room/newRoom/pz_111.png",
+        "Room/newRoom/pz_114.png",
+        "Room/newRoom/pz_182.png",
+        "Room/newRoom/pz_63.png",
+        "Room/newRoom/pz_65.png",
+        "Room/newRoom/pz_67.png",
+        "Room/roomBg.jpg"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

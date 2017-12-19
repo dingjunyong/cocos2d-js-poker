@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!--channel 渠道号
+		version 主程序版本号
+		size    主程序大小
+		type    主程序更新类型：1直接下载，2链接跳转
+		url     资源服务器地址
+		exUrl   当type=2时，配置需要跳转的地址
+	-------------------------------->
+	<data channel="default" version="3.0.5" log="1.修复若干bug\n 2.增加若干功能" size="14800000" type="1" url="http://120.26.94.209:30000/" exUrl="0"/>
+</root>

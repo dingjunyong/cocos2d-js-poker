@@ -1,0 +1,2367 @@
+{
+  "ID": "0401e38c-5d01-44df-b415-33b8321b51bb",
+  "Version": "2.3.2.3",
+  "Name": "ui_hall_scene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 66,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Hall/hallBg.png",
+              "Plist": ""
+            },
+            "Scale9Width": 1280,
+            "Scale9Height": 720,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 363.24
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5045
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 0.0002,
+            "RightMargin": -0.0002,
+            "TopMargin": -3.2227,
+            "BottomMargin": 3.2227,
+            "Tag": 67,
+            "ActionTag": 960737713,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "hall_bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 576.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.8
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.2
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "BottomMargin": 576.0,
+            "Tag": 68,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_1_DK.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1075.2,
+                  "Y": 70.776
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.84,
+                  "Y": 0.4915
+                },
+                "PreSize": {
+                  "X": 0.3672,
+                  "Y": 0.4653
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 840.2,
+                "RightMargin": -30.2,
+                "TopMargin": 39.724,
+                "BottomMargin": 37.276,
+                "Tag": 72,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "UI_1_MF.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "UI_1_MF.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 67,
+                    "Scale9Height": 75,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 397.009,
+                      "Y": 33.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.3,
+                      "ScaleY": 1.2
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8447,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0758,
+                      "Y": 0.6736
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 348.5298,
+                    "RightMargin": 24.4702,
+                    "TopMargin": -15.0003,
+                    "BottomMargin": -14.9997,
+                    "Tag": 71,
+                    "ActionTag": 674161757,
+                    "Size": {
+                      "X": 97.0,
+                      "Y": 97.0
+                    },
+                    "Name": "mianfei",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "UI_1_HD.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "UI_1_HD.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 67,
+                    "Scale9Height": 75,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 249.993,
+                      "Y": 33.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.35,
+                      "ScaleY": 1.2
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5319,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0758,
+                      "Y": 0.6736
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 201.5137,
+                    "RightMargin": 171.4863,
+                    "TopMargin": -15.0014,
+                    "BottomMargin": -14.9986,
+                    "Tag": 70,
+                    "ActionTag": -1441333417,
+                    "Size": {
+                      "X": 97.0,
+                      "Y": 97.0
+                    },
+                    "Name": "huodong",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "UI_TX_2.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "Scale9Width": 155,
+                    "Scale9Height": 155,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 94.0001,
+                      "Y": 33.4998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.4097,
+                      "ScaleY": 1.2868
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3298,
+                      "Y": 2.3134
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 16.5001,
+                    "RightMargin": 298.4999,
+                    "TopMargin": -43.9998,
+                    "BottomMargin": -44.0002,
+                    "Tag": 257,
+                    "ActionTag": -1246749232,
+                    "Size": {
+                      "X": 155.0,
+                      "Y": 155.0
+                    },
+                    "Name": "shouchong_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "UI_1_SC.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "UI_1_SC.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 67,
+                    "Scale9Height": 75,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5178,
+                      "ScaleY": 0.488
+                    },
+                    "Position": {
+                      "X": 94.0,
+                      "Y": 33.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.35,
+                      "ScaleY": 1.2
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2064,
+                      "Y": 1.4478
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 43.7734,
+                    "RightMargin": 329.2266,
+                    "TopMargin": -16.164,
+                    "BottomMargin": -13.836,
+                    "Tag": 69,
+                    "ActionTag": -1478823091,
+                    "Size": {
+                      "X": 97.0,
+                      "Y": 97.0
+                    },
+                    "Name": "shouchong",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -219996170,
+                "Size": {
+                  "X": 470.0,
+                  "Y": 67.0
+                },
+                "Name": "ui_1_bg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_2_DK.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "Scale9Width": 197,
+                "Scale9Height": 55,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 454.437,
+                  "Y": 75.6269
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.355,
+                  "Y": 0.5252
+                },
+                "PreSize": {
+                  "X": 0.1539,
+                  "Y": 0.3819
+                },
+                "LeftMargin": 355.937,
+                "RightMargin": 727.063,
+                "TopMargin": 40.8731,
+                "BottomMargin": 48.1269,
+                "Tag": 73,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "UI_2_AN_2.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "UI_2_AN_1.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 21,
+                    "Scale9Height": 29,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 171.39,
+                      "Y": 27.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.87,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2589,
+                      "Y": 0.9273
+                    },
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 145.89,
+                    "RightMargin": 0.11,
+                    "TopMargin": 2.0,
+                    "BottomMargin": 2.0,
+                    "Tag": 74,
+                    "ActionTag": -423226399,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 51.0
+                    },
+                    "Name": "jinbi_jia",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "UI_2_1_JB.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "Scale9Width": 51,
+                    "Scale9Height": 51,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.0,
+                      "Y": 27.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0761,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2589,
+                      "Y": 0.9273
+                    },
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": -10.5,
+                    "RightMargin": 156.5,
+                    "TopMargin": 2.0,
+                    "BottomMargin": 2.0,
+                    "Tag": 75,
+                    "ActionTag": 1702125312,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 51.0
+                    },
+                    "Name": "jinbi",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "10012",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 83.438,
+                      "Y": 30.163
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4235,
+                      "Y": 0.5484
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 53.438,
+                    "RightMargin": 83.562,
+                    "TopMargin": 12.837,
+                    "BottomMargin": 18.163,
+                    "Tag": 255,
+                    "ActionTag": 1582674525,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 28.0
+                    },
+                    "Name": "jinbi_number",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 172175301,
+                "Size": {
+                  "X": 197.0,
+                  "Y": 55.0
+                },
+                "Name": "ui_2_jinbi_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_2_DK.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "Scale9Width": 197,
+                "Scale9Height": 55,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 671.7784,
+                  "Y": 76.1646
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5248,
+                  "Y": 0.5289
+                },
+                "PreSize": {
+                  "X": 0.1539,
+                  "Y": 0.3819
+                },
+                "LeftMargin": 573.2784,
+                "RightMargin": 509.7216,
+                "TopMargin": 40.3354,
+                "BottomMargin": 48.6646,
+                "Tag": 76,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "UI_2_AN_2.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "UI_2_AN_1.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 21,
+                    "Scale9Height": 29,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 171.39,
+                      "Y": 27.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.87,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2589,
+                      "Y": 0.9273
+                    },
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 145.89,
+                    "RightMargin": 0.11,
+                    "TopMargin": 2.0,
+                    "BottomMargin": 2.0,
+                    "Tag": 77,
+                    "ActionTag": 626192542,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 51.0
+                    },
+                    "Name": "zuanshi_jia",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "UI_2_1_zs.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "Scale9Width": 51,
+                    "Scale9Height": 51,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.0,
+                      "Y": 27.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0761,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2589,
+                      "Y": 0.9273
+                    },
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": -10.5,
+                    "RightMargin": 156.5,
+                    "TopMargin": 2.0,
+                    "BottomMargin": 2.0,
+                    "Tag": 78,
+                    "ActionTag": 1292481482,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 51.0
+                    },
+                    "Name": "zuanshi",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "0",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 93.438,
+                      "Y": 30.1628
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4743,
+                      "Y": 0.5484
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 63.438,
+                    "RightMargin": 73.562,
+                    "TopMargin": 12.8372,
+                    "BottomMargin": 18.1628,
+                    "Tag": 256,
+                    "ActionTag": 638133575,
+                    "Size": {
+                      "X": 14.0,
+                      "Y": 28.0
+                    },
+                    "Name": "zuanshi_number",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 214442925,
+                "Size": {
+                  "X": 197.0,
+                  "Y": 55.0
+                },
+                "Name": "ui_2_zuanshi_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_2_TX_2.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "Scale9Width": 216,
+                "Scale9Height": 101,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 220.3408,
+                  "Y": 78.5074
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1721,
+                  "Y": 0.5452
+                },
+                "PreSize": {
+                  "X": 0.1688,
+                  "Y": 0.7014
+                },
+                "LeftMargin": 112.3408,
+                "RightMargin": 951.6592,
+                "TopMargin": 14.9926,
+                "BottomMargin": 28.0074,
+                "Tag": 79,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "UI_2_TX_1.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "Scale9Width": 99,
+                    "Scale9Height": 99,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -49.9999,
+                      "Y": 53.7219
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.2315,
+                      "Y": 0.5319
+                    },
+                    "PreSize": {
+                      "X": 0.4583,
+                      "Y": 0.9802
+                    },
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": -99.4999,
+                    "RightMargin": 216.4999,
+                    "TopMargin": -2.2219,
+                    "BottomMargin": 4.2219,
+                    "Tag": 80,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Common/gg.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 120,
+                        "Scale9Height": 120,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 49.5,
+                          "Y": 49.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 0.9,
+                          "Y": 0.9
+                        },
+                        "HorizontalEdge": "BothEdge",
+                        "VerticalEdge": "BothEdge",
+                        "LeftMargin": 4.95,
+                        "RightMargin": 4.95,
+                        "TopMargin": 4.95,
+                        "BottomMargin": 4.95,
+                        "Tag": 85,
+                        "ActionTag": -645362509,
+                        "Size": {
+                          "X": 89.1,
+                          "Y": 89.1
+                        },
+                        "Name": "touxiang",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 275544127,
+                    "Size": {
+                      "X": 99.0,
+                      "Y": 99.0
+                    },
+                    "Name": "touxiang_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "UI_VIP_0.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "Scale9Width": 93,
+                    "Scale9Height": 35,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.0,
+                      "Y": 28.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.25,
+                      "Y": 0.2772
+                    },
+                    "PreSize": {
+                      "X": 0.4306,
+                      "Y": 0.3465
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "LeftMargin": 7.5,
+                    "RightMargin": 115.5,
+                    "TopMargin": 55.5,
+                    "BottomMargin": 10.5,
+                    "Tag": 81,
+                    "ActionTag": 1605371530,
+                    "Size": {
+                      "X": 93.0,
+                      "Y": 35.0
+                    },
+                    "Name": "vip",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "look_vip.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "look_vip.png",
+                      "Plist": "Hall/new_hall.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 63,
+                    "Scale9Height": 7,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 153.6331,
+                      "Y": 18.5638
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7113,
+                      "Y": 0.1838
+                    },
+                    "PreSize": {
+                      "X": 0.0727,
+                      "Y": 0.0264
+                    },
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 107.1331,
+                    "RightMargin": 15.8669,
+                    "TopMargin": 72.9372,
+                    "BottomMargin": 9.0628,
+                    "Tag": 82,
+                    "ActionTag": 507807870,
+                    "Size": {
+                      "X": 93.0,
+                      "Y": 19.0
+                    },
+                    "Name": "chakantequan",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "SIRJUNI",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 65.0,
+                      "Y": 69.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3009,
+                      "Y": 0.6832
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 12.5,
+                    "RightMargin": 98.5,
+                    "TopMargin": 17.0,
+                    "BottomMargin": 54.0,
+                    "Tag": 83,
+                    "ActionTag": 715133505,
+                    "Size": {
+                      "X": 105.0,
+                      "Y": 30.0
+                    },
+                    "Name": "username",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 851366023,
+                "Size": {
+                  "X": 216.0,
+                  "Y": 101.0
+                },
+                "Name": "ui_2_touxiang_bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 116009946,
+            "Size": {
+              "X": 1280.0,
+              "Y": 144.0
+            },
+            "Name": "top",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 108.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.15
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.65
+            },
+            "VerticalEdge": "BothEdge",
+            "TopMargin": 144.0,
+            "BottomMargin": 108.0,
+            "Tag": 147,
+            "Children": [
+              {
+                "ScrollDirectionType": 0,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 64.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.05,
+                  "Y": 0.0
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.9,
+                  "Y": 1.0
+                },
+                "HorizontalEdge": "BothEdge",
+                "LeftMargin": 64.0,
+                "RightMargin": 64.0,
+                "Tag": 149,
+                "Children": [
+                  {
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 150,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "Default",
+                          "Path": "Default/Button_Disable.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "UI_3_WRC.png",
+                          "Plist": "Hall/new_hall.plist"
+                        },
+                        "NormalFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "UI_3_WRC.png",
+                          "Plist": "Hall/new_hall.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 227,
+                        "Scale9Height": 360,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 180.0,
+                          "Y": 217.7451
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1563,
+                          "Y": 0.4653
+                        },
+                        "PreSize": {
+                          "X": 0.251,
+                          "Y": 0.8162
+                        },
+                        "LeftMargin": 51.5,
+                        "RightMargin": 843.5,
+                        "TopMargin": 59.2549,
+                        "BottomMargin": 26.7451,
+                        "Tag": 151,
+                        "ActionTag": 1932686790,
+                        "Size": {
+                          "X": 257.0,
+                          "Y": 382.0
+                        },
+                        "Name": "wanrenchang",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "Default",
+                          "Path": "Default/Button_Disable.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "UI_3_CJC.png",
+                          "Plist": "Hall/new_hall.plist"
+                        },
+                        "NormalFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "UI_3_CJC.png",
+                          "Plist": "Hall/new_hall.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 227,
+                        "Scale9Height": 360,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 560.0,
+                          "Y": 221.3143
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4861,
+                          "Y": 0.4729
+                        },
+                        "PreSize": {
+                          "X": 0.251,
+                          "Y": 0.8162
+                        },
+                        "LeftMargin": 431.5,
+                        "RightMargin": 463.5,
+                        "TopMargin": 55.6857,
+                        "BottomMargin": 30.3143,
+                        "Tag": 152,
+                        "ActionTag": 799464596,
+                        "Size": {
+                          "X": 257.0,
+                          "Y": 382.0
+                        },
+                        "Name": "chujichang",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "Default",
+                          "Path": "Default/Button_Disable.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "UI_3_LHJ.png",
+                          "Plist": "Hall/new_hall.plist"
+                        },
+                        "NormalFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "UI_3_LHJ.png",
+                          "Plist": "Hall/new_hall.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 321,
+                        "Scale9Height": 360,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 942.9026,
+                          "Y": 219.1699
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8185,
+                          "Y": 0.4683
+                        },
+                        "PreSize": {
+                          "X": 0.3428,
+                          "Y": 0.8162
+                        },
+                        "LeftMargin": 767.4026,
+                        "RightMargin": 33.5974,
+                        "TopMargin": 57.83,
+                        "BottomMargin": 28.1699,
+                        "Tag": 153,
+                        "ActionTag": 1861567376,
+                        "Size": {
+                          "X": 351.0,
+                          "Y": 382.0
+                        },
+                        "Name": "laohuji",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 1683405764,
+                    "Size": {
+                      "X": 1152.0,
+                      "Y": 468.0
+                    },
+                    "Name": "page1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1152.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 1152.0,
+                    "RightMargin": -1152.0,
+                    "Tag": 154,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "Default",
+                          "Path": "Default/Button_Disable.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "UI_3_GJC.png",
+                          "Plist": "Hall/new_hall.plist"
+                        },
+                        "NormalFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "UI_3_GJC.png",
+                          "Plist": "Hall/new_hall.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 271,
+                        "Scale9Height": 360,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 180.0,
+                          "Y": 217.7451
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1563,
+                          "Y": 0.4653
+                        },
+                        "PreSize": {
+                          "X": 0.2939,
+                          "Y": 0.8162
+                        },
+                        "LeftMargin": 29.5,
+                        "RightMargin": 821.5,
+                        "TopMargin": 59.2549,
+                        "BottomMargin": 26.7451,
+                        "Tag": 155,
+                        "ActionTag": -2127606127,
+                        "Size": {
+                          "X": 301.0,
+                          "Y": 382.0
+                        },
+                        "Name": "gaojichang",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "Default",
+                          "Path": "Default/Button_Disable.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "UI_3_DZP.png",
+                          "Plist": "Hall/new_hall.plist"
+                        },
+                        "NormalFileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "UI_3_DZP.png",
+                          "Plist": "Hall/new_hall.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 321,
+                        "Scale9Height": 360,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 560.0,
+                          "Y": 220.3143
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4861,
+                          "Y": 0.4708
+                        },
+                        "PreSize": {
+                          "X": 0.3428,
+                          "Y": 0.8162
+                        },
+                        "LeftMargin": 384.5,
+                        "RightMargin": 416.5,
+                        "TopMargin": 56.6857,
+                        "BottomMargin": 29.3143,
+                        "Tag": 156,
+                        "ActionTag": 700444960,
+                        "Size": {
+                          "X": 351.0,
+                          "Y": 382.0
+                        },
+                        "Name": "dazhuanpan",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": -496796058,
+                    "Size": {
+                      "X": 1152.0,
+                      "Y": 468.0
+                    },
+                    "Name": "page2",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -1734114072,
+                "Size": {
+                  "X": 1152.0,
+                  "Y": 468.0
+                },
+                "Name": "PageView",
+                "ctype": "PageViewObjectData"
+              }
+            ],
+            "ActionTag": 2021935005,
+            "Size": {
+              "X": 1280.0,
+              "Y": 468.0
+            },
+            "Name": "center",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "UI_4_1.png",
+              "Plist": "Hall/new_hall.plist"
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentWidthEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.0917
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "TopMargin": 654.0,
+            "Tag": 87,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_4_4.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_4_3.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 343,
+                "Scale9Height": 104,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1080.787,
+                  "Y": 75.1549
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8444,
+                  "Y": 1.1387
+                },
+                "PreSize": {
+                  "X": 0.2914,
+                  "Y": 1.9091
+                },
+                "LeftMargin": 894.287,
+                "RightMargin": 12.713,
+                "TopMargin": -72.1549,
+                "BottomMargin": 12.1549,
+                "Tag": 88,
+                "ActionTag": -399849916,
+                "Size": {
+                  "X": 373.0,
+                  "Y": 126.0
+                },
+                "Name": "kuaisu_start",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_AN_1.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_AN_1.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 57,
+                "Scale9Height": 75,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 208.8524,
+                  "Y": 43.6862
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1632,
+                  "Y": 0.6619
+                },
+                "PreSize": {
+                  "X": 0.068,
+                  "Y": 1.4697
+                },
+                "LeftMargin": 165.3524,
+                "RightMargin": 1027.6476,
+                "TopMargin": -26.1862,
+                "BottomMargin": -4.8138,
+                "Tag": 89,
+                "ActionTag": -481030600,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 97.0
+                },
+                "Name": "shangcheng",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_AN_4.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_AN_4.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 57,
+                "Scale9Height": 75,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 493.0572,
+                  "Y": 43.4429
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3852,
+                  "Y": 0.6582
+                },
+                "PreSize": {
+                  "X": 0.068,
+                  "Y": 1.4697
+                },
+                "LeftMargin": 449.5572,
+                "RightMargin": 743.4427,
+                "TopMargin": -25.9429,
+                "BottomMargin": -5.0571,
+                "Tag": 90,
+                "ActionTag": 1695992882,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 97.0
+                },
+                "Name": "renwu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_AN_5.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_AN_5.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 57,
+                "Scale9Height": 75,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 633.1624,
+                  "Y": 41.2779
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4947,
+                  "Y": 0.6254
+                },
+                "PreSize": {
+                  "X": 0.068,
+                  "Y": 1.4697
+                },
+                "LeftMargin": 589.6624,
+                "RightMargin": 603.3376,
+                "TopMargin": -23.7779,
+                "BottomMargin": -7.2221,
+                "Tag": 91,
+                "ActionTag": 711659637,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 97.0
+                },
+                "Name": "paihang",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_AN_2.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_AN_2.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 57,
+                "Scale9Height": 75,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 353.438,
+                  "Y": 42.045
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2761,
+                  "Y": 0.637
+                },
+                "PreSize": {
+                  "X": 0.068,
+                  "Y": 1.4697
+                },
+                "LeftMargin": 309.938,
+                "RightMargin": 883.062,
+                "TopMargin": -24.545,
+                "BottomMargin": -6.455,
+                "Tag": 92,
+                "ActionTag": 1446893137,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 97.0
+                },
+                "Name": "duihuan",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_AN_6.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_AN_6.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 57,
+                "Scale9Height": 75,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 772.7501,
+                  "Y": 41.7634
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6037,
+                  "Y": 0.6328
+                },
+                "PreSize": {
+                  "X": 0.068,
+                  "Y": 1.4697
+                },
+                "LeftMargin": 729.2501,
+                "RightMargin": 463.7499,
+                "TopMargin": -24.2634,
+                "BottomMargin": -6.7366,
+                "Tag": 94,
+                "ActionTag": -1917355263,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 97.0
+                },
+                "Name": "gengduo",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_AN_3.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "UI_AN_3.png",
+                  "Plist": "Hall/new_hall.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 57,
+                "Scale9Height": 75,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 65.7225,
+                  "Y": 44.2588
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0513,
+                  "Y": 0.6706
+                },
+                "PreSize": {
+                  "X": 0.068,
+                  "Y": 1.4697
+                },
+                "LeftMargin": 22.2225,
+                "RightMargin": 1170.7775,
+                "TopMargin": -26.7588,
+                "BottomMargin": -4.2412,
+                "Tag": 95,
+                "ActionTag": 2092545665,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 97.0
+                },
+                "Name": "shichang",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1021448462,
+            "Size": {
+              "X": 1280.0,
+              "Y": 66.0
+            },
+            "Name": "bottom",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Common/gg.png",
+        "Default/Button_Disable.png",
+        "Hall/hallBg.png",
+        "Hall/new_hall.plist",
+        "Hall/new_hall.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

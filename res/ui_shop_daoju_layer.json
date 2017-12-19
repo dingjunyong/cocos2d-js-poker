@@ -1,0 +1,402 @@
+{
+  "ID": "6777318c-1d54-467b-9260-a0f9f46e3238",
+  "Version": "2.3.2.3",
+  "Name": "ui_shop_daoju_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 67,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 645.984
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.8972
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "TopMargin": 2.016,
+            "BottomMargin": 645.984,
+            "Tag": 81,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/suChongKuang.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "Scale9Width": 189,
+                "Scale9Height": 46,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 169.623,
+                  "Y": 35.0428
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1972,
+                  "Y": 0.4867
+                },
+                "PreSize": {
+                  "X": 0.2198,
+                  "Y": 0.6389
+                },
+                "LeftMargin": 75.123,
+                "RightMargin": 595.877,
+                "TopMargin": 13.9572,
+                "BottomMargin": 12.0428,
+                "Tag": 86,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "store/jiangQuan.png",
+                      "Plist": "Shop/store.plist"
+                    },
+                    "Scale9Width": 27,
+                    "Scale9Height": 39,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 23.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2857,
+                      "Y": 1.3043
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": -27.0,
+                    "RightMargin": 162.0,
+                    "TopMargin": -7.0,
+                    "BottomMargin": -7.0,
+                    "Tag": 88,
+                    "ActionTag": -763413781,
+                    "Size": {
+                      "X": 54.0,
+                      "Y": 60.0
+                    },
+                    "Name": "quan_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "10000",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 94.5,
+                      "Y": 23.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 44.5,
+                    "RightMargin": 44.5,
+                    "TopMargin": 13.0,
+                    "BottomMargin": 13.0,
+                    "Tag": 89,
+                    "ActionTag": -619241586,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 28.0
+                    },
+                    "Name": "quan_number",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -195551654,
+                "Size": {
+                  "X": 189.0,
+                  "Y": 46.0
+                },
+                "Name": "number_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/duiJiangXinXi.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/duiJiangXinXi.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 139,
+                "Scale9Height": 31,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 548.8062,
+                  "Y": 33.9258
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6381,
+                  "Y": 0.4712
+                },
+                "PreSize": {
+                  "X": 0.1965,
+                  "Y": 0.7361
+                },
+                "LeftMargin": 464.3062,
+                "RightMargin": 226.6938,
+                "TopMargin": 11.5742,
+                "BottomMargin": 7.4258,
+                "Tag": 94,
+                "ActionTag": -964853729,
+                "Size": {
+                  "X": 169.0,
+                  "Y": 53.0
+                },
+                "Name": "duihuanxinxi",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1026246602,
+            "Size": {
+              "X": 860.0,
+              "Y": 72.0
+            },
+            "Name": "top",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 15.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0208
+            },
+            "PercentWidthEnable": true,
+            "PercentWidthEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.8056
+            },
+            "TopMargin": 125.0,
+            "BottomMargin": 15.0,
+            "Tag": 90,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "store/tieJia.png",
+                  "Plist": "Shop/store.plist"
+                },
+                "Scale9Width": 890,
+                "Scale9Height": 65,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 430.0,
+                  "Y": 174.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3
+                },
+                "PreSize": {
+                  "X": 1.0349,
+                  "Y": 0.1121
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": -15.0,
+                "RightMargin": -15.0,
+                "TopMargin": 373.5,
+                "BottomMargin": 141.5,
+                "Tag": 91,
+                "ActionTag": 1129021507,
+                "Size": {
+                  "X": 890.0,
+                  "Y": 65.0
+                },
+                "Name": "tiejia_1",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1325460526,
+            "Size": {
+              "X": 860.0,
+              "Y": 580.0
+            },
+            "Name": "content",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 860.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Shop/store.plist",
+        "Shop/store.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}
