@@ -14,7 +14,8 @@ var HallScene = cc.Scene.extend({
         chujichang_btn.addTouchEventListener(this.gameChujichang, this);
     },
     gameChujichang:function (sender,type) {
-    	var scene = new RoomScene()
+        cc.log("dadaddd");
+    	var scene = new RoomScene();
     	cc.director.runScene(new cc.TransitionFade(1.2, scene));
     }
 });

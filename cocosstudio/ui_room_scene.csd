@@ -6,7 +6,7 @@
       <ObjectData Name="Scene" Tag="95" ctype="GameNodeObjectData">
         <Size X="1280.0000" Y="720.0000" />
         <Children>
-          <AbstractNodeData Name="room_bg" ActionTag="1569680400" Tag="96" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="1.5769" RightMargin="-1.5769" Scale9Width="1280" Scale9Height="720" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="room_bg" ActionTag="1569680400" Tag="96" IconVisible="False" HorizontalEdge="BothEdge" VerticalEdge="BothEdge" LeftMargin="1.5360" RightMargin="-1.5360" Scale9Width="1280" Scale9Height="720" ctype="ImageViewObjectData">
             <Size X="1280.0000" Y="720.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="641.5360" Y="360.0000" />

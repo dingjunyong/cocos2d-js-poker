@@ -28,18 +28,5 @@
         <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
-    <Item Key="TabsParamsKey">
-      <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="ui_login_scene.csd" />
-          <FilePathData Path="ui_hall_scene.csd" />
-          <FilePathData Path="ui_shop_scene.csd" />
-          <FilePathData Path="ui_shop_jinbi_layer.csd" />
-          <FilePathData Path="ui_shop_daoju_layer.csd" />
-          <FilePathData Path="ui_room_scene.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="ui_room_scene.csd" />
-      </Value>
-    </Item>
   </Properties>
 </UserData>
