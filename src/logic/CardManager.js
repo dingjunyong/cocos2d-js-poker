@@ -27,5 +27,14 @@ var CardManager=cc.Class.extend({
                 this._scene.addChild(card);
             }
         }
+    },
+    randomCard:function () {
+        
+    },
+    createPlayer:function () {
+        
+    },
+    sendCard:function () {
+        
     }
 });
