@@ -40,7 +40,7 @@
                 <FileData Type="Normal" Path="Room/newRoom/pz_114.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="jinbi_number" ActionTag="539514940" Tag="109" IconVisible="False" HorizontalEdge="BothEdge" LeftMargin="31.0500" RightMargin="19.9500" TopMargin="120.0004" BottomMargin="4.9996" FontSize="20" LabelText="32.5万" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="60.0000" Y="20.0000" />
+                <Size X="58.0000" Y="23.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="61.0500" Y="14.9996" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -51,7 +51,7 @@
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
               <AbstractNodeData Name="nickname" ActionTag="-100544894" Tag="110" IconVisible="False" HorizontalEdge="BothEdge" LeftMargin="15.5000" RightMargin="15.5000" TopMargin="8.0000" BottomMargin="117.0000" FontSize="20" LabelText="东方不败" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="80.0000" Y="20.0000" />
+                <Size X="80.0000" Y="23.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="55.5000" Y="127.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -87,7 +87,7 @@
                 <Size X="100.0000" Y="113.0000" />
                 <Children>
                   <AbstractNodeData Name="nickname" ActionTag="997974627" Tag="128" IconVisible="False" LeftMargin="3.6298" RightMargin="16.3702" TopMargin="11.3780" BottomMargin="81.6220" FontSize="20" LabelText="独孤伯爵" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="80.0000" Y="20.0000" />
+                    <Size X="80.0000" Y="23.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="43.6298" Y="91.6220" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -118,7 +118,7 @@
                     <FileData Type="Normal" Path="Common/common-rmb.png" Plist="" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="jinbi_number" ActionTag="-358634043" Tag="131" IconVisible="False" LeftMargin="40.0000" RightMargin="20.0000" TopMargin="47.0000" BottomMargin="46.0000" FontSize="20" LabelText="2500" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="40.0000" Y="20.0000" />
+                    <Size X="44.0000" Y="23.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="60.0000" Y="56.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -129,7 +129,7 @@
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="zuanshi_number" ActionTag="86442714" Tag="132" IconVisible="False" LeftMargin="40.0000" RightMargin="20.0000" TopMargin="84.0000" BottomMargin="9.0000" FontSize="20" LabelText="2500" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="40.0000" Y="20.0000" />
+                    <Size X="44.0000" Y="23.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="60.0000" Y="19.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -184,7 +184,7 @@
                 <FileData Type="Normal" Path="Room/newRoom/pz_114.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="jinbi_number" ActionTag="-1832447532" Tag="114" IconVisible="False" HorizontalEdge="BothEdge" LeftMargin="31.0500" RightMargin="19.9500" TopMargin="120.0004" BottomMargin="4.9996" FontSize="20" LabelText="32.5万" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="60.0000" Y="20.0000" />
+                <Size X="58.0000" Y="23.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="61.0500" Y="14.9996" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -195,7 +195,7 @@
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
               <AbstractNodeData Name="nickname" ActionTag="1281477471" Tag="115" IconVisible="False" HorizontalEdge="BothEdge" LeftMargin="15.5000" RightMargin="15.5000" TopMargin="8.0000" BottomMargin="117.0000" FontSize="20" LabelText="曹操" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="40.0000" Y="20.0000" />
+                <Size X="40.0000" Y="23.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="55.5000" Y="127.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -238,7 +238,7 @@
                 <FileData Type="Normal" Path="Room/newRoom/pz_114.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="jinbi_number" ActionTag="676284657" Tag="119" IconVisible="False" HorizontalEdge="BothEdge" LeftMargin="31.0500" RightMargin="19.9500" TopMargin="120.0004" BottomMargin="4.9996" FontSize="20" LabelText="32.5万" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="60.0000" Y="20.0000" />
+                <Size X="58.0000" Y="23.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="61.0500" Y="14.9996" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -249,7 +249,7 @@
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
               <AbstractNodeData Name="nickname" ActionTag="1991709602" Tag="120" IconVisible="False" HorizontalEdge="BothEdge" LeftMargin="15.5000" RightMargin="15.5000" TopMargin="8.0000" BottomMargin="117.0000" FontSize="20" LabelText="令狐冲" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="60.0000" Y="20.0000" />
+                <Size X="60.0000" Y="23.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="55.5000" Y="127.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -292,7 +292,7 @@
                 <FileData Type="Normal" Path="Room/newRoom/pz_114.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="jinbi_number" ActionTag="-1017813038" Tag="124" IconVisible="False" HorizontalEdge="BothEdge" LeftMargin="31.0500" RightMargin="19.9500" TopMargin="120.0004" BottomMargin="4.9996" FontSize="20" LabelText="32.5万" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="60.0000" Y="20.0000" />
+                <Size X="58.0000" Y="23.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="61.0500" Y="14.9996" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -303,7 +303,7 @@
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
               <AbstractNodeData Name="nickname" ActionTag="1267163228" Tag="125" IconVisible="False" HorizontalEdge="BothEdge" LeftMargin="15.5000" RightMargin="15.5000" TopMargin="8.0000" BottomMargin="117.0000" FontSize="20" LabelText="中原一点红" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                <Size X="100.0000" Y="20.0000" />
+                <Size X="100.0000" Y="23.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="55.5000" Y="127.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -449,7 +449,7 @@
                 <Size X="237.0000" Y="35.0000" />
                 <Children>
                   <AbstractNodeData Name="Text_2" ActionTag="175244122" Tag="51" IconVisible="False" LeftMargin="31.3158" RightMargin="145.6842" TopMargin="6.2290" BottomMargin="8.7710" FontSize="23" LabelText="底住:" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="58.0000" Y="23.0000" />
+                    <Size X="52.0000" Y="27.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="61.3158" Y="18.7710" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -460,7 +460,7 @@
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="value" ActionTag="1467341020" Tag="52" IconVisible="False" LeftMargin="127.9061" RightMargin="85.0939" TopMargin="5.5342" BottomMargin="6.4658" FontSize="23" LabelText="50" HorizontalAlignmentType="HT_Center" ShadowOffsetX="5.0000" ShadowOffsetY="5.0000" ctype="TextObjectData">
-                    <Size X="24.0000" Y="23.0000" />
+                    <Size X="25.0000" Y="27.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="139.9061" Y="17.9658" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -483,7 +483,7 @@
                 <Size X="237.0000" Y="35.0000" />
                 <Children>
                   <AbstractNodeData Name="Text_2" ActionTag="-147143454" Tag="60" IconVisible="False" LeftMargin="31.3158" RightMargin="145.6842" TopMargin="6.2290" BottomMargin="8.7710" FontSize="23" LabelText="当前:" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="58.0000" Y="23.0000" />
+                    <Size X="52.0000" Y="27.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="61.3158" Y="18.7710" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -494,7 +494,7 @@
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="value" ActionTag="1849320683" Tag="61" IconVisible="False" LeftMargin="127.9061" RightMargin="85.0939" TopMargin="5.5342" BottomMargin="6.4658" FontSize="23" LabelText="50" HorizontalAlignmentType="HT_Center" ShadowOffsetX="5.0000" ShadowOffsetY="5.0000" ctype="TextObjectData">
-                    <Size X="24.0000" Y="23.0000" />
+                    <Size X="25.0000" Y="27.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="139.9061" Y="17.9658" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -517,7 +517,7 @@
                 <Size X="237.0000" Y="35.0000" />
                 <Children>
                   <AbstractNodeData Name="text" ActionTag="411903887" Tag="63" IconVisible="False" LeftMargin="32.1299" RightMargin="100.8701" TopMargin="5.7256" BottomMargin="6.2744" FontSize="23" LabelText="可比轮数:" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="104.0000" Y="23.0000" />
+                    <Size X="98.0000" Y="27.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="84.1299" Y="17.7744" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -528,7 +528,7 @@
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="value" ActionTag="1777973958" Tag="64" IconVisible="False" LeftMargin="158.9063" RightMargin="54.0938" TopMargin="5.5330" BottomMargin="6.4670" FontSize="23" LabelText="1/3" HorizontalAlignmentType="HT_Center" ShadowOffsetX="5.0000" ShadowOffsetY="5.0000" ctype="TextObjectData">
-                    <Size X="36.0000" Y="23.0000" />
+                    <Size X="31.0000" Y="27.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="170.9063" Y="17.9670" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -551,7 +551,7 @@
                 <Size X="237.0000" Y="35.0000" />
                 <Children>
                   <AbstractNodeData Name="Text_2" ActionTag="-1642606388" Tag="69" IconVisible="False" LeftMargin="32.1299" RightMargin="100.8701" TopMargin="5.7256" BottomMargin="6.2744" FontSize="23" LabelText="最大轮数:" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="104.0000" Y="23.0000" />
+                    <Size X="98.0000" Y="27.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="84.1299" Y="17.7744" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -562,7 +562,7 @@
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="value" ActionTag="625356209" Tag="70" IconVisible="False" LeftMargin="158.9063" RightMargin="54.0938" TopMargin="5.5330" BottomMargin="6.4670" FontSize="23" LabelText="1/20" HorizontalAlignmentType="HT_Center" ShadowOffsetX="5.0000" ShadowOffsetY="5.0000" ctype="TextObjectData">
-                    <Size X="48.0000" Y="23.0000" />
+                    <Size X="44.0000" Y="27.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="170.9063" Y="17.9670" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />

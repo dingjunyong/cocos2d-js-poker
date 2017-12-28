@@ -25,6 +25,6 @@ var RoomScene=cc.Scene.extend({
     },
     onBackCallback:function (sender,type) {
         var scene=new HallScene();
-        cc.director.runScene(new cc.TransitionFade(1.2, scene));
+        cc.director.runScene(new cc.TransitionFade(0.2, scene));
     }
 });
