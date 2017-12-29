@@ -7,7 +7,7 @@ var Game = {
      */
     start:function(){
         //加载poker-plist资源
-        cc.director.runScene(new LoginScene());
+        cc.director.runScene(new RoomScene());
     }
 };
 

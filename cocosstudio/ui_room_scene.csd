@@ -705,6 +705,16 @@
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
+          <AbstractNodeData Name="LoadingBar_1" ActionTag="-59029488" Tag="60" IconVisible="False" LeftMargin="781.7223" RightMargin="377.2777" TopMargin="292.5000" BottomMargin="272.5000" ProgressInfo="20" ctype="LoadingBarObjectData">
+            <Size X="121.0000" Y="155.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="842.2223" Y="350.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.6580" Y="0.4861" />
+            <PreSize X="0.0945" Y="0.2153" />
+            <ImageFileData Type="Normal" Path="Room/newRoom/progressFrame.png" Plist="" />
+          </AbstractNodeData>
         </Children>
       </ObjectData>
     </Content>

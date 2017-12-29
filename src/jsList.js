@@ -9,8 +9,7 @@ var jsList = [
     //Elements
     "src/elements/Card.js",
     "src/elements/Player.js",
-    //Login
-    "src/logic/CardManager.js",
+    //Logic
     //Scene
     "src/scene/LoginScene.js",
     "src/scene/HallScene.js",

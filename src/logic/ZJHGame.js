@@ -1,8 +1,8 @@
-/*
-*   Card Manager
-*/
+/**
+ * Created by adks on 2017/12/29.
+ */
 
-var CardManager=cc.Class.extend({
+var ZJHGame=cc.Class.extend({
     _scene: null, //房间场景
     _allCards:[],
     _heses : ["0","1","2","3"],
@@ -12,9 +12,9 @@ var CardManager=cc.Class.extend({
     ctor:function (root) {
         this._scene=root;
     },
-    init:function () {
+    start:function () {
         //创建玩家
-        this.createPlayer();
+        this.createPlayer1();
         //创建牌
         this.createCard();
         //洗牌
@@ -23,14 +23,14 @@ var CardManager=cc.Class.extend({
         this.sendCard(this,0);
     },
     createPlayer:function () {
-        for (var i=0;i<=5;i++){
+        for (var i=0;i<=4;i++){
             var player=Player.create(i+1);
             this._players.push(player);
         }
     },
     createCard:function () {
-        for (var i=0;i<=this._heses.length;i++){
-            for (var j=0;i<this._dianshues.length;i++){
+        for (var i=0;i<this._heses.length;i++){
+            for (var j=0;j<this._dianshues.length;j++){
                 var card=Card.create(this._heses[i],this._dianshues[j]);
                 //定义牌所在的位置
                 card.x=1280/2;
@@ -54,12 +54,14 @@ var CardManager=cc.Class.extend({
     sendCard:function(self,cardIdx){
         var player_count=this._players.length;
         if(cardIdx< player_count * 3){
-            var player=this._players[cardIdx % player_count + 1]
-            var cardNumber=parseInt(cardIdx % player_count)
+            var playerIdx=cardIdx % player_count;
+            var playerCardIdx=parseInt(cardIdx / player_count);
             var card=this._allCards[cardIdx];
-            var position=player.addCard(card);
+
+            var player=this._players[playerIdx]
+            var position=player.getMoveCardPosition(playerCardIdx);
             card.runAction(cc.sequence(
-                cc.moveTo(0.05,position),
+                cc.moveTo(0.1,position),
                 cc.callFunc(this.sendCard,this,cardIdx + 1)
             ));
         }
