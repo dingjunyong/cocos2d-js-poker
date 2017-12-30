@@ -94,6 +94,10 @@ var resources = [
     "res/Room/card/card_38.png",
     "res/Room/card/card_39.png",
     "res/Room/card/card_back.png",
+
+    //ROOM-GOLD
+    "res/Room/newChips.plist",
+    "res/Room/chip.png",
     
     //SHOP
     "res/Shop/beiJing.png",

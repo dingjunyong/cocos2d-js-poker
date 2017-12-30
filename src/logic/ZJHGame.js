@@ -8,13 +8,17 @@ var ZJHGame=cc.Class.extend({
     _heses : ["0","1","2","3"],
     _dianshues:["2","4","5","6","7","8","9","a","b","c","d","1"],
     _players:[],
+    //金币数量
+    gold:1000,
 
     ctor:function (root) {
         this._scene=root;
     },
     start:function () {
         //创建玩家
-        this.createPlayer1();
+        this.createPlayer();
+        //房地
+        this.sendGold();
         //创建牌
         this.createCard();
         //洗牌
@@ -65,5 +69,10 @@ var ZJHGame=cc.Class.extend({
                 cc.callFunc(this.sendCard,this,cardIdx + 1)
             ));
         }
+    },
+    sendGold:function () {
+
+
+
     }
 });

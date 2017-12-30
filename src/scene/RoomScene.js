@@ -15,6 +15,10 @@ var RoomScene=cc.Scene.extend({
 
 	onEnter:function(){
 		this._super();
+
+		//加载金币
+        cc.spriteFrameCache.addSpriteFrames("res/Room/newChips.plist");
+
 		//显示房间界面
         var root =Helper._parseUIFile("res/ui_room_scene.json");
 		this.addChild(root);
@@ -36,8 +40,10 @@ var RoomScene=cc.Scene.extend({
     },
 
     startGame:function () {
+
         //创建玩家
         this.createPlayer();
+        //放
         //创建牌
         this.createCard();
         //洗牌
@@ -99,6 +105,9 @@ var RoomScene=cc.Scene.extend({
 			}
 			this.stopAllActions();
 		}
+    },
+    sendGold:function (value) {
+
     },
 
     //事件
